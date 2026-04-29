@@ -6,7 +6,7 @@
 	<Link title="H&S" ref="/" />
 
 	<nav>
-		<a class="about" href="/about">
+		<a class="about" href="#">
 			<span class="icon">+</span>
 			About
 		</a>
